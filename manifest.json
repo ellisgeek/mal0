@@ -1,0 +1,34 @@
+{
+  "name": "MalO v1.0.0",
+  "short_name": "MalO",
+  "display": "standalone",
+  "background_color": "DarkGray",
+  "theme_color": "DarkGray",
+  "icons": [
+    {
+      "src": "img/ico/48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/ico/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "img/ico/96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/ico/144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/ico/168.png",
+      "sizes": "168x168"
+    },
+    {
+      "src": "img/ico/192.png",
+      "sizes": "192x192"
+    }
+  ],
+  "orientation": "portrait"
+}
