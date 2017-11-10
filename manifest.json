@@ -1,7 +1,7 @@
 {
   "name": "MalO v1.0.0",
   "short_name": "MalO",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "DarkGray",
   "theme_color": "DarkGray",
   "icons": [
